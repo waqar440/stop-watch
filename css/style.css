@@ -1,0 +1,30 @@
+body{
+    font-size: 50px;    
+}
+.container{
+    margin-top: 200px;
+    margin-left: 25%;
+    margin-right: 25%;
+    align-items: center;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #ACFFAD;
+    color: #50CB93;
+    border-radius: 20px 20px 0px 0px;
+}
+.buttons{
+    margin-left: 25%;
+    margin-right: 25%;
+    align-items: center;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #ACFFAD;
+    border-radius: 0px 0px 20px 20px;
+}
+button{
+    background-color: #ACFFAD;
+    border: none;
+    color: #50CB93;
+}
